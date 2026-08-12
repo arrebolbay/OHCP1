@@ -1,0 +1,29 @@
+# Maven build output
+target/
+
+# H2 Database
+data/*.db
+data/*.trace.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# Maven wrapper jars
+.mvn/wrapper/maven-wrapper.jar
+
+# Local JDK
+.local/
